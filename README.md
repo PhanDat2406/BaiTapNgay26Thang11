@@ -4,9 +4,7 @@
 - **Họ và tên:** Phan Công Thành Đạt
 - **Mã sinh viên:** 24810310223
 - **Lớp:** D19CNPM3
-- **Môn học:** Lập trình .NET (C# Windows Forms 3-Tier)
-- **Nền tảng:** .NET 8.0 Windows Forms & SQL Server (LocalDB)
-
+- **Môn học:** Lập trình .NET 
 ---
 
 ### Danh sách bài tập:
